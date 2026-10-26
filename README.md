@@ -2,7 +2,6 @@
 
 O **Fluxo** é um projeto de portfólio que simula um software de gestão financeira para pequenos negócios e profissionais autônomos.
 
-> Suas finanças organizadas. Suas decisões mais claras.
 
 ## Objetivo
 Criar uma experiência simples e intuitiva para acompanhar receitas, despesas, saldo disponível e movimentações financeiras em um único painel.
