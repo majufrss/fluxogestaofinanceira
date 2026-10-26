@@ -48,8 +48,7 @@ export default function LoginPage() {
             {message && <p className="login-message" role="status">{message}</p>}
             <button className="login-submit" type="submit">Entrar no Fluxo <ArrowRight size={17}/></button>
           </form>
-          <div className="login-demo-notice"><span className="login-demo-dot" /><p><b>Modo demonstração</b><br />Use qualquer e-mail e senha para acessar o painel de exemplo. Nenhuma conta é criada.</p></div>
-          <p className="login-legal">Ao continuar, você acessará uma demonstração visual do Fluxo.</p>
+          <p className="login-legal">Acesse sua área de gestão financeira.</p>
           <a className="login-back-link" href="/">← Voltar ao painel</a>
         </div>
       </section>
